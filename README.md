@@ -1,11 +1,11 @@
 # India-US Cross-Sector Forecasting model (2025-30)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Model Type: DCF/ROCE/Valuation](https://img.shields.io/badge/Models-DCF%20%7C%20ROCE%20%7C%20RAPI-blue)
-![Excel Models](https://img.shields.io/badge/Made%20With-Excel-217346?logo=microsoft-excel&logoColor=white)
-![Power BI Ready](https://img.shields.io/badge/PowerBI-Ready-F2C811?logo=powerbi&logoColor=black)
-![Dataset Size-Large](https://img.shields.io/badge/Data-Large-orange)
-![India & US](https://img.shields.io/badge/Coverage-India%20%26%20US-red)
-![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)
+<p align="center">
+  <img src="https://img.shields.io/badge/Repository-Cross--Market--Corporate--Analysis--2020--2030-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/akshatgupta2000/Cross-market-corporate-analysis-2020-2030?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/akshatgupta2000/Cross-market-corporate-analysis-2020-2030?color=green&style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/akshatgupta2000/Cross-market-corporate-analysis-2020-2030?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+</p>
 
 
 Excel-based Corporate Financial Forecasting & Sector Fundamentals Model

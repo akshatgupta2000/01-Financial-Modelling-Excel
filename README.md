@@ -89,9 +89,9 @@ India vs US sector comparison:
 > Valuation frameworks (DCF, Relative)
 > Scenario Analysis
 > Research structuring & documentation
+## 📁 Repository Structure
 
-# Repository Structure
-
+```text
 India-US-Cross-Sector-Forecasting-Model-Excel-based/
 │
 ├── Sector_Models/
@@ -114,6 +114,7 @@ India-US-Cross-Sector-Forecasting-Model-Excel-based/
 │   └── Heatmaps/
 │
 └── README.md
+```
 
 # Purpose of this repository
 This repository is part of my public finance portfolio, demonstrating practical skills in:

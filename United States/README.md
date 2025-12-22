@@ -8,11 +8,10 @@ Each Excel file includes:
 
 > Historical data from 10-K filings (2020–2024)
 > Forecasted financial statements (2025–2030)
-> DCF valuation
-> Efficiency metrics (ROCE, ROE, margins)
+> DCF valuation, Relative Valuation
+> Efficiency metrics (ROCE, margins)
 > Leverage & stability analysis
 > Sector-level aggregation
-> Scenario-based projections
 
 
 📁 Included Sectors

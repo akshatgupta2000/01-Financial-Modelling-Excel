@@ -38,5 +38,4 @@ These models were developed as part of an independent cross-sector research proj
 📎 Notes
 
 1. All assumptions are transparently included within each model.
-2. Values are reported in ₹ crore.
-3. Models are designed for clarity, auditability, and reproducibility.
+2. Values are reported in ₹ crores.

@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
 
   <!-- SSRN Status Badge -->
-  <img src="https://img.shields.io/badge/SSRN_Status-Under_Review-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SSRN_Status-Published-orange?style=for-the-badge">
 
   <!-- Author Badge -->
   <img src="https://img.shields.io/badge/Author-Akshat_Gupta-red?style=for-the-badge">
